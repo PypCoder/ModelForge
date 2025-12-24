@@ -1,0 +1,82 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Next.js
+.next/
+out/
+.nextjs/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# FastAPI
+.venv
+*.log
+instance/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ML/Data Science
+*.csv
+.ipynb_checkpoints/
+*.ipynb
+__pycache__/
+
+# TensorFlow
+*.ckpt
+saved_model/
+tf_logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+*.orig
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+data/
